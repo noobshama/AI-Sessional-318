@@ -1,0 +1,104 @@
+Solvable puzzle
+Hamming Distance
+Minimum number of moves: 4
+Expanded nodes: 4
+Explored nodes: 10
+0 1 3 
+4 2 5 
+7 8 6 
+
+1 0 3 
+4 2 5 
+7 8 6 
+
+1 2 3 
+4 0 5 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+#######################################################
+Solvable puzzle
+Manhattan Distance
+Minimum number of moves: 4
+Expanded nodes: 4
+Explored nodes: 10
+0 1 3 
+4 2 5 
+7 8 6 
+
+1 0 3 
+4 2 5 
+7 8 6 
+
+1 2 3 
+4 0 5 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+#######################################################
+Solvable puzzle
+Linear Conflict
+Minimum number of moves: 4
+Expanded nodes: 4
+Explored nodes: 10
+0 1 3 
+4 2 5 
+7 8 6 
+
+1 0 3 
+4 2 5 
+7 8 6 
+
+1 2 3 
+4 0 5 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+#######################################################
+Solvable puzzle
+Euclidean Distance
+Minimum number of moves: 4
+Expanded nodes: 4
+Explored nodes: 10
+0 1 3 
+4 2 5 
+7 8 6 
+
+1 0 3 
+4 2 5 
+7 8 6 
+
+1 2 3 
+4 0 5 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+#######################################################
